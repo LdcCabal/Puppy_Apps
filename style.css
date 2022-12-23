@@ -1,0 +1,43 @@
+body{
+    background-color: #192841;
+    color: #ECECEE;
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+}
+
+p{
+    color: #caa906;
+}
+h1{
+    font-size: 70px;
+    /*Familias tipograficas*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    /*Familias tipograficas*/
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+}
+/* Comentario en css*/
+
+img{
+    width: 250px;
+    height: 350px;
+    border-radius: 10%; /*Curvea bordes de imagenes*/
+    border-width: 10px;
+    border-color: green;
+    border-style: outset dotted solid dotted;
+}
+
+.PuppyList{
+    background-color: #034f20;
+    color: #b11e31;
+}
+
+.HyperPuppy img{
+    width: 550px;
+    height: 350px;
+}
+
+
